@@ -5,7 +5,7 @@
 # Literalura![a_digital_library_with_a_central_title](https://github.com/user-attachments/assets/349d933f-d8c2-4361-8199-e396952edc02)
 
 
-Literalura é uma aplicação web construída com Java, Spring Boot e React para gerenciar informações sobre autores e livros. O projeto visa criar uma plataforma que permita adicionar, editar e visualizar dados de autores e seus respectivos livros, com uma interface intuitiva.
+Literalura é uma aplicação console construída com Java, Spring Boot e postgresql para gerenciar informações sobre autores e livros. O projeto visa criar uma plataforma que permita adicionar, editar e visualizar dados de autores e seus respectivos livros, com uma interface intuitiva.
 
 ## Tecnologias Utilizadas
 
